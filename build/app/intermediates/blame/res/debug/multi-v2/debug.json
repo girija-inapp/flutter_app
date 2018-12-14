@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/inapp/InAppProjects/RnD/Flutter/FlutterSampleApp/flutter_sampleapp/build/app/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/inapp/InAppProjects/RnD/Flutter/FlutterSampleApp/flutter_sampleapp/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    }
+                }
+            ]
+        }
+    ]
+}
